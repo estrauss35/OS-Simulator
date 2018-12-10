@@ -1,0 +1,119 @@
+TIME: 77.128664, OS: Process 0 set in Exit State
+TIME: 76.228432, Process 0: keyboard input start
+TIME: 77.128453, Process 0: keyboard input end
+TIME: 74.428015, Process 0: keyboard input start
+TIME: 75.328035, Process 0: keyboard input end
+TIME: 72.627609, Process 0: keyboard input start
+TIME: 73.527617, Process 0: keyboard input end
+TIME: 70.827103, Process 0: printer output start
+TIME: 71.727124, Process 0: printer output end
+TIME: 69.026672, Process 0: harddrive output start
+TIME: 69.926692, Process 0: harddrive output end
+TIME: 67.226049, Process 0: harddrive output start
+TIME: 68.126073, Process 0: harddrive output end
+TIME: 65.425629, Process 0: harddrive input start
+TIME: 66.325656, Process 0: harddrive input end
+TIME: 63.625136, Process 0: keyboard input start
+TIME: 64.525163, Process 0: keyboard input end
+TIME: 61.824597, Process 0: harddrive output start
+TIME: 62.724616, Process 0: harddrive output end
+TIME: 60.024045, Process 0: harddrive input start
+TIME: 60.924075, Process 0: harddrive input end
+TIME: 59.123510, Process 0: Memory management allocation start
+TIME: 54.123402, SJF-N selects Process 0
+TIME: 54.123402, OS: Process 0 set in Running State
+TIME: 54.123214, OS: Process 2 set in Exit State
+TIME: 53.222842, Process 2: harddrive input start
+TIME: 54.122867, Process 2: harddrive input end
+TIME: 50.322347, Process 2: keyboard input start
+TIME: 52.322374, Process 2: keyboard input end
+TIME: 48.321963, Process 2: Memory management access start
+TIME: 48.321963, Process 2: Memory management access end
+TIME: 46.320674, Process 2: keyboard input start
+TIME: 48.321591, Process 2: keyboard input end
+TIME: 44.153506, Process 2: Run operation start
+TIME: 44.320229, Process 2: Run operation end
+TIME: 43.747423, Process 2: Run operation start
+TIME: 43.990096, Process 2: Run operation end
+TIME: 42.406859, Process 2: printer output start
+TIME: 43.506897, Process 2: printer output end
+TIME: 40.406097, Process 2: harddrive output start
+TIME: 41.306118, Process 2: harddrive output end
+TIME: 39.085598, Process 2: harddrive input start
+TIME: 39.505618, Process 2: harddrive input end
+TIME: 37.560200, Process 2: printer output start
+TIME: 38.660224, Process 2: printer output end
+TIME: 35.659787, Process 2: printer output start
+TIME: 36.459796, Process 2: printer output end
+TIME: 34.859269, Process 2: Memory management allocation start
+TIME: 29.858996, SJF-N selects Process 2
+TIME: 29.858996, OS: Process 2 set in Running State
+TIME: 29.858421, OS: Process 1 set in Exit State
+TIME: 29.637936, Process 1: Run operation start
+TIME: 29.857957, Process 1: Run operation end
+TIME: 28.417548, Process 1: keyboard input start
+TIME: 29.417572, Process 1: keyboard input end
+TIME: 26.117105, Process 1: printer output start
+TIME: 27.417125, Process 1: printer output end
+TIME: 24.456734, Process 1: harddrive input start
+TIME: 24.816744, Process 1: harddrive input end
+TIME: 23.312709, Process 1: harddrive input start
+TIME: 24.092780, Process 1: harddrive input end
+TIME: 22.366002, Process 1: Run operation start
+TIME: 22.532172, Process 1: Run operation end
+TIME: 22.105579, Process 1: Run operation start
+TIME: 22.205599, Process 1: Run operation end
+TIME: 21.722876, Process 1: monitor output start
+TIME: 22.002923, Process 1: monitor output end
+TIME: 20.542115, Process 1: harddrive input start
+TIME: 21.442139, Process 1: harddrive input end
+TIME: 19.221432, Process 1: harddrive input start
+TIME: 19.641448, Process 1: harddrive input end
+TIME: 18.799372, SJF-N selects Process 1
+TIME: 18.799372, OS: Process 1 set in Running State
+TIME: 18.799178, OS: Process 3 set in Exit State
+TIME: 18.078935, Process 3: harddrive input start
+TIME: 18.798953, Process 3: harddrive input end
+TIME: 17.178470, Process 3: Run operation start
+TIME: 17.358488, Process 3: Run operation end
+TIME: 16.697911, Process 3: harddrive output start
+TIME: 16.997931, Process 3: harddrive output end
+TIME: 16.137445, Process 3: Run operation start
+TIME: 16.397460, Process 3: Run operation end
+TIME: 14.876937, Process 3: keyboard input start
+TIME: 15.876956, Process 3: keyboard input end
+TIME: 13.396485, Process 3: harddrive output start
+TIME: 13.876492, Process 3: harddrive output end
+TIME: 12.136050, Process 3: harddrive input start
+TIME: 12.916066, Process 3: harddrive input end
+TIME: 10.655588, Process 3: printer output start
+TIME: 11.355604, Process 3: printer output end
+TIME:  9.775158, Process 3: Run operation start
+TIME:  9.955175, Process 3: Run operation end
+TIME:  9.334675, Process 3: Run operation start
+TIME:  9.594694, Process 3: Run operation end
+TIME:  9.074277, SJF-N selects Process 3
+TIME:  9.074277, OS: Process 3 set in Running State
+TIME:  9.073874, OS: Process 4 set in Exit State
+TIME:  8.969728, Process 4: Run operation start
+TIME:  9.073576, Process 4: Run operation end
+TIME:  8.441821, Process 4: harddrive input start
+TIME:  8.862057, Process 4: harddrive input end
+TIME:  7.598538, Process 4: harddrive output start
+TIME:  8.018564, Process 4: harddrive output end
+TIME:  6.177805, Process 4: printer output start
+TIME:  7.177824, Process 4: printer output end
+TIME:  4.897306, Process 4: Run operation start
+TIME:  5.177348, Process 4: Run operation end
+TIME:  4.316762, Process 4: harddrive input start
+TIME:  4.616916, Process 4: harddrive input end
+TIME:  3.836174, Process 4: Run operation start
+TIME:  4.016198, Process 4: Run operation end
+TIME:  3.362234, Process 4: Run operation start
+TIME:  3.645317, Process 4: Run operation end
+TIME:  2.081682, Process 4: printer output start
+TIME:  3.081716, Process 4: printer output end
+TIME:  0.541270, Process 4: harddrive output start
+TIME:  1.081284, Process 4: harddrive output end
+TIME:  0.000897, SJF-N selects Process 4
+TIME:  0.000897, OS: Process 4 set in Running State

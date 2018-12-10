@@ -1,0 +1,142 @@
+TIME:  0.002287, System Start
+TIME:  0.002287, OS: Begin PCB Creation
+TIME:  0.002287, OS: All processes initialized in New State
+TIME:  0.002287, OS: All processes now set in Ready State
+TIME:  0.002287, OS: Begin PCB Creation
+ive output start
+TIME: 96.194472, Process 5: harddrive output end
+TIME: 93.392079, Process 5: keyboard input start
+TIME: 94.394085, Process 5: keyboard input end
+TIME: 92.111624, Process 5: monitor output start
+TIME: 92.391663, Process 5: monitor output end
+TIME: 91.291216, Process 5: harddrive output start
+TIME: 91.831241, Process 5: harddrive output end
+TIME: 88.550659, Process 5: keyboard input start
+TIME: 90.750685, Process 5: keyboard input end
+TIME: 84.749387, Process 5: keyboard input start
+TIME: 86.350170, Process 5: keyboard input end
+TIME: 82.148973, Process 5: printer output start
+TIME: 83.148996, Process 5: printer output end
+TIME: 80.727027, Process 5: harddrive output start
+TIME: 81.147035, Process 5: harddrive output end
+TIME: 80.306732, FCFS-N selects Process 5
+TIME: 80.306732, OS: Process 5 set in Running State
+TIME: 80.306568, OS: Process 4 set in Exit State
+TIME: 80.202450, Process 4: Run operation start
+TIME: 80.306347, Process 4: Run operation end
+TIME: 79.678965, Process 4: harddrive input start
+TIME: 80.098984, Process 4: harddrive input end
+TIME: 78.838509, Process 4: harddrive output start
+TIME: 79.258550, Process 4: harddrive output end
+TIME: 77.416761, Process 4: printer output start
+TIME: 78.416919, Process 4: printer output end
+TIME: 76.136067, Process 4: Run operation start
+TIME: 76.416412, Process 4: Run operation end
+TIME: 75.555555, Process 4: harddrive input start
+TIME: 75.855577, Process 4: harddrive input end
+TIME: 75.074440, Process 4: Run operation start
+TIME: 75.254464, Process 4: Run operation end
+TIME: 74.613981, Process 4: Run operation start
+TIME: 74.894000, Process 4: Run operation end
+TIME: 73.331175, Process 4: printer output start
+TIME: 74.331209, Process 4: printer output end
+TIME: 71.790711, Process 4: harddrive output start
+TIME: 72.330736, Process 4: harddrive output end
+TIME: 71.250460, FCFS-N selects Process 4
+TIME: 71.250460, OS: Process 4 set in Running State
+TIME: 71.250262, OS: Process 3 set in Exit State
+TIME: 70.530021, Process 3: harddrive input start
+TIME: 71.250045, Process 3: harddrive input end
+TIME: 69.628942, Process 3: Run operation start
+TIME: 69.809525, Process 3: Run operation end
+TIME: 69.148329, Process 3: harddrive output start
+TIME: 69.448557, Process 3: harddrive output end
+TIME: 68.587860, Process 3: Run operation start
+TIME: 68.847887, Process 3: Run operation end
+TIME: 67.327371, Process 3: keyboard input start
+TIME: 68.327395, Process 3: keyboard input end
+TIME: 65.846952, Process 3: harddrive output start
+TIME: 66.326972, Process 3: harddrive output end
+TIME: 64.586540, Process 3: harddrive input start
+TIME: 65.366567, Process 3: harddrive input end
+TIME: 63.103909, Process 3: printer output start
+TIME: 63.806058, Process 3: printer output end
+TIME: 62.223292, Process 3: Run operation start
+TIME: 62.403316, Process 3: Run operation end
+TIME: 61.782861, Process 3: Run operation start
+TIME: 62.042880, Process 3: Run operation end
+TIME: 61.518957, FCFS-N selects Process 3
+TIME: 61.518957, OS: Process 3 set in Running State
+TIME: 61.518777, OS: Process 2 set in Exit State
+TIME: 60.618543, Process 2: harddrive input start
+TIME: 61.518562, Process 2: harddrive input end
+TIME: 57.718037, Process 2: keyboard input start
+TIME: 59.718109, Process 2: keyboard input end
+TIME: 55.717733, Process 2: Memory management access start
+TIME: 55.717733, Process 2: Memory management access end
+TIME: 53.717381, Process 2: keyboard input start
+TIME: 55.717406, Process 2: keyboard input end
+TIME: 51.555367, Process 2: Run operation start
+TIME: 51.717014, Process 2: Run operation end
+TIME: 51.154868, Process 2: Run operation start
+TIME: 51.394897, Process 2: Run operation end
+TIME: 49.814441, Process 2: printer output start
+TIME: 50.914461, Process 2: printer output end
+TIME: 47.812112, Process 2: harddrive output start
+TIME: 48.712141, Process 2: harddrive output end
+TIME: 46.491635, Process 2: harddrive input start
+TIME: 46.911665, Process 2: harddrive input end
+TIME: 44.971022, Process 2: printer output start
+TIME: 46.071033, Process 2: printer output end
+TIME: 43.070349, Process 2: printer output start
+TIME: 43.870373, Process 2: printer output end
+TIME: 42.269935, Process 2: Memory management allocation start
+TIME: 37.269856, FCFS-N selects Process 2
+TIME: 37.269856, OS: Process 2 set in Running State
+TIME: 37.269695, OS: Process 1 set in Exit State
+TIME: 37.047650, Process 1: Run operation start
+TIME: 37.269468, Process 1: Run operation end
+TIME: 35.827197, Process 1: keyboard input start
+TIME: 36.827215, Process 1: keyboard input end
+TIME: 33.526721, Process 1: printer output start
+TIME: 34.826729, Process 1: printer output end
+TIME: 31.866246, Process 1: harddrive input start
+TIME: 32.226262, Process 1: harddrive input end
+TIME: 30.723381, Process 1: harddrive input start
+TIME: 31.503407, Process 1: harddrive input end
+TIME: 29.778747, Process 1: Run operation start
+TIME: 29.942819, Process 1: Run operation end
+TIME: 29.515247, Process 1: Run operation start
+TIME: 29.618332, Process 1: Run operation end
+TIME: 29.134845, Process 1: monitor output start
+TIME: 29.414861, Process 1: monitor output end
+TIME: 27.950584, Process 1: harddrive input start
+TIME: 28.854273, Process 1: harddrive input end
+TIME: 26.628571, Process 1: harddrive input start
+TIME: 27.050143, Process 1: harddrive input end
+TIME: 26.208267, FCFS-N selects Process 1
+TIME: 26.208267, OS: Process 1 set in Running State
+TIME: 26.208054, OS: Process 0 set in Exit State
+TIME: 25.207696, Process 0: keyboard input start
+TIME: 26.207716, Process 0: keyboard input end
+TIME: 22.207138, Process 0: keyboard input start
+TIME: 24.207166, Process 0: keyboard input end
+TIME: 18.006518, Process 0: keyboard input start
+TIME: 20.206540, Process 0: keyboard input end
+TIME: 15.005916, Process 0: printer output start
+TIME: 15.805923, Process 0: printer output end
+TIME: 13.545426, Process 0: harddrive output start
+TIME: 14.205446, Process 0: harddrive output end
+TIME: 12.105005, Process 0: harddrive output start
+TIME: 12.885021, Process 0: harddrive output end
+TIME: 10.964489, Process 0: harddrive input start
+TIME: 11.324514, Process 0: harddrive input end
+TIME:  9.003963, Process 0: keyboard input start
+TIME: 10.603978, Process 0: keyboard input end
+TIME:  6.863577, Process 0: harddrive output start
+TIME:  7.403594, Process 0: harddrive output end
+TIME:  5.663050, Process 0: harddrive input start
+TIME:  6.323070, Process 0: harddrive input end
+TIME:  5.002621, Process 0: Memory management allocation start
+TIME:  0.002541, FCFS-N selects Process 0
+TIME:  0.002541, OS: Process 0 set in Running State

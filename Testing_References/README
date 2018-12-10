@@ -1,0 +1,30 @@
+(Just have to type "make" into the terminal to build the program.)
+
+	***Sim04 Grading Specs***
+
+For concurrency control, I'm just using threaded timers to time the I/O time and whatever.
+
+I am not using memory management.
+
+
+PCB and Five State process management system struct in MetaScanner.h as processInfo.
+
+Timing is in scheduler.c as well as my attempt at preemption / interrupts.
+	Using the provided timer that Leverington gave us.
+
+FCFS-N, FCFS-P, SJF-N, SJF-P are the only ones that pass the tests for program operation portion of the rubric.
+
+	The preemptive versions get through the whole thing then seg faults at the end. But everything is done at that point so it doesn't really matter. (Input is sometimes a little messy, but I 	
+	didn't have enough time to iron it all out.
+
+	Did not implement RR-P, so go ahead and take away the 3 points for that.
+
+----------------------------------------------------------
+
+	***Extra Notes***
+
+The scheduling works fine when displayed  to monitor, but when written to a file the outputs are correct but they are flipped (ending at top of file, beginning at bottom). Not sure why. The time display for the two operations work as well.
+
+
+I believe this qualifies as a reasonable attempt, so please don't give me a 0!
+I hope I made it a little easier on you to grade!

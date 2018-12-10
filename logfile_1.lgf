@@ -1,0 +1,120 @@
+TIME: 10.000000, OS: Process 4 set in Exit State
+TIME: 0.000000, Process 4: Run operation start
+TIME: 0.000000, Process 4: Run operation end
+TIME: 0.000000, Process 4: harddrive input start
+TIME: 0.000000, Process 4: harddrive input end
+TIME: 0.000000, Process 4: harddrive output start
+TIME: 0.000000, Process 4: harddrive output end
+TIME: 0.000000, Process 4: printer output start
+TIME: 0.000000, Process 4: printer output end
+TIME: 0.000000, Process 4: Run operation start
+TIME: 0.000000, Process 4: Run operation end
+TIME: 0.000000, Process 4: harddrive input start
+TIME: 0.000000, Process 4: harddrive input end
+TIME: 0.000000, Process 4: Run operation start
+TIME: 0.000000, Process 4: Run operation end
+TIME: 0.000000, Process 4: Run operation start
+TIME: 0.000000, Process 4: Run operation end
+TIME: 0.000000, Process 4: printer output start
+TIME: 0.000000, Process 4: printer output end
+TIME: 0.000000, Process 4: harddrive output start
+TIME: 0.000000, Process 4: harddrive output end
+TIME: 0.000000, FCFS-N selects Process 4
+TIME: 0.000000, OS: Process 4 set in Running State
+TIME: 0.000000, OS: Process 3 set in Exit State
+TIME: 0.000000, Process 3: harddrive input start
+TIME: 0.000000, Process 3: harddrive input end
+TIME: 0.000000, Process 3: Run operation start
+TIME: 0.000000, Process 3: Run operation end
+TIME: 0.000000, Process 3: harddrive output start
+TIME: 0.000000, Process 3: harddrive output end
+TIME: 0.000000, Process 3: Run operation start
+TIME: 0.000000, Process 3: Run operation end
+TIME: 0.000000, Process 3: keyboard input start
+TIME: 0.000000, Process 3: keyboard input end
+TIME: 0.000000, Process 3: harddrive output start
+TIME: 0.000000, Process 3: harddrive output end
+TIME: 0.000000, Process 3: harddrive input start
+TIME: 0.000000, Process 3: harddrive input end
+TIME: 0.000000, Process 3: printer output start
+TIME: 0.000000, Process 3: printer output end
+TIME: 0.000000, Process 3: Run operation start
+TIME: 0.000000, Process 3: Run operation end
+TIME: 0.000000, Process 3: Run operation start
+TIME: 0.000000, Process 3: Run operation end
+TIME: 0.000000, FCFS-N selects Process 3
+TIME: 0.000000, OS: Process 3 set in Running State
+TIME: 0.000000, OS: Process 2 set in Exit State
+TIME: 0.000000, Process 2: harddrive input start
+TIME: 0.000000, Process 2: harddrive input end
+TIME: 0.000000, Process 2: keyboard input start
+TIME: 0.000000, Process 2: keyboard input end
+TIME: 0.000000, Process 2: Memory management access start
+TIME: 0.000000, Process 2: Memory management access end
+TIME: 0.000000, Process 2: keyboard input start
+TIME: 0.000000, Process 2: keyboard input end
+TIME: 0.000000, Process 2: Run operation start
+TIME: 0.000000, Process 2: Run operation end
+TIME: 0.000000, Process 2: Run operation start
+TIME: 0.000000, Process 2: Run operation end
+TIME: 0.000000, Process 2: printer output start
+TIME: 0.000000, Process 2: printer output end
+TIME: 0.000000, Process 2: harddrive output start
+TIME: 0.000000, Process 2: harddrive output end
+TIME: 0.000000, Process 2: harddrive input start
+TIME: 0.000000, Process 2: harddrive input end
+TIME: 0.000000, Process 2: printer output start
+TIME: 0.000000, Process 2: printer output end
+TIME: 0.000000, Process 2: printer output start
+TIME: 0.000000, Process 2: printer output end
+TIME: 0.000000, Process 2: Memory management allocation start
+TIME: 0.000000, FCFS-N selects Process 2
+TIME: 0.000000, OS: Process 2 set in Running State
+TIME: 0.000000, OS: Process 1 set in Exit State
+TIME: 0.000000, Process 1: Run operation start
+TIME: 0.000000, Process 1: Run operation end
+TIME: 0.000000, Process 1: keyboard input start
+TIME: 0.000000, Process 1: keyboard input end
+TIME: 0.000000, Process 1: printer output start
+TIME: 0.000000, Process 1: printer output end
+TIME: 0.000000, Process 1: harddrive input start
+TIME: 0.000000, Process 1: harddrive input end
+TIME: 0.000000, Process 1: harddrive input start
+TIME: 0.000000, Process 1: harddrive input end
+TIME: 0.000000, Process 1: Run operation start
+TIME: 0.000000, Process 1: Run operation end
+TIME: 0.000000, Process 1: Run operation start
+TIME: 0.000000, Process 1: Run operation end
+TIME: 0.000000, Process 1: monitor output start
+TIME: 0.000000, Process 1: monitor output end
+TIME: 0.000000, Process 1: harddrive input start
+TIME: 0.000000, Process 1: harddrive input end
+TIME: 0.000000, Process 1: harddrive input start
+TIME: 0.000000, Process 1: harddrive input end
+TIME: 0.000000, FCFS-N selects Process 1
+TIME: 0.000000, OS: Process 1 set in Running State
+TIME: 0.000000, OS: Process 0 set in Exit State
+TIME: 0.000000, Process 0: keyboard input start
+TIME: 0.000000, Process 0: keyboard input end
+TIME: 0.000000, Process 0: keyboard input start
+TIME: 0.000000, Process 0: keyboard input end
+TIME: 0.000000, Process 0: keyboard input start
+TIME: 0.000000, Process 0: keyboard input end
+TIME: 0.000000, Process 0: printer output start
+TIME: 0.000000, Process 0: printer output end
+TIME: 0.000000, Process 0: harddrive output start
+TIME: 0.000000, Process 0: harddrive output end
+TIME: 0.000000, Process 0: harddrive output start
+TIME: 0.000000, Process 0: harddrive output end
+TIME: 0.000000, Process 0: harddrive input start
+TIME: 0.000000, Process 0: harddrive input end
+TIME: 0.000000, Process 0: keyboard input start
+TIME: 0.000000, Process 0: keyboard input end
+TIME: 0.000000, Process 0: harddrive output start
+TIME: 0.000000, Process 0: harddrive output end
+TIME: 0.000000, Process 0: harddrive input start
+TIME: 0.000000, Process 0: harddrive input end
+TIME: 0.000000, Process 0: Memory management allocation start
+TIME: 0.000000, FCFS-N selects Process 0
+TIME: 0.000000, OS: Process 0 set in Running State
+TIME: 0.000000, Process -1: Unknown Operation. Skipping...

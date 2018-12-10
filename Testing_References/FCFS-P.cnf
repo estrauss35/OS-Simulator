@@ -1,0 +1,12 @@
+Start Simulator Configuration File
+Version/Phase: 1.5
+File Path: FCFS-P.mdf
+CPU Scheduling Code: FCFS-P
+Quantum Time (cycles): 55
+Memory Available (KB): 667
+Processor Cycle Time (msec): 10
+I/O Cycle Time (msec): 20
+Log To: Both
+Log File Path: FCFS-P.lgs
+End Simulator Configuration File.
+
